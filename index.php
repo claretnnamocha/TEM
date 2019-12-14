@@ -57,7 +57,9 @@
               </p>
             </li>
           </ul>
-          <div class="btn schedule__btn">Schedule an Event</div>
+          <div class="btn schedule__btn">
+            <a href="add_event.html">Schedule an Event</a>
+          </div>
         </div>
       </div>
     </div>
