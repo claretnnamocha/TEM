@@ -135,6 +135,7 @@ body {
 .events-container {
   box-shadow: 2px 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: white;
+  padding-bottom: 1rem;
 }
 
 .events {
@@ -179,4 +180,21 @@ body {
   font-weight: 600;
   font-variant: small-caps;
   margin-bottom: 1rem;
+}
+
+.date__banner {
+  max-width: 80%;
+  margin: 0.5rem auto;
+  background-color: white;
+  padding: 1rem;
+  box-shadow: 2px 4px 4px 0 rgba(0, 0, 0, 0.15);
+}
+
+.schedule__btn {
+  max-width: 20rem;
+  text-align: center;
+  font-size: 22px;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  background-color: rgb(16, 99, 119);
 }
