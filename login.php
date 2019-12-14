@@ -45,7 +45,7 @@
           <div class="form__group btn__login">
             <span
               >Not yet registered?
-              <a href="./register.html" class="form__link">Register</a></span
+              <a href="./registeration.php" class="form__link">Register</a></span
             >
           </div>
         </form>
