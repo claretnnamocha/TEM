@@ -25,35 +25,34 @@
           <ul class="events">
             <li class="event">
               <div class="event__date">14th December, 2019</div>
-              <h3 class="event__name">Jack Event</h3>
+              <h3 class="event__name">ALC Owerri Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
               <p class="event__desc">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dignissimos pariatur sed libero? Optio quia ipsam vitae nisi
-                odit, provident cupiditate, consequuntur assumenda illo, nemo
-                esse labore fugit reiciendis reprehenderit magni.
+                
+               The Devc Event will be happening live at Oluaka 
+                Institute of technology Owerri. Come lets make 
+                imo and tech our thing. For the culture
               </p>
             </li>
             <li class="event">
               <div class="event__date">14th December, 2019</div>
-              <h3 class="event__name">Jack Event</h3>
+              <h3 class="event__name">GDG Owerri Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
               <p class="event__desc">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dignissimos pariatur sed libero? Optio quia ipsam vitae nisi
-                odit, provident cupiditate, consequuntur assumenda illo, nemo
-                esse labore fugit reiciendis reprehenderit magni.
+                
+               The Devc Event will be happening live at Oluaka Institute 
+                of technology Owerri. Come lets make imo and tech our thing. 
+                For the culture
               </p>
             </li>
             <li class="event">
               <div class="event__date">14th December, 2019</div>
-              <h3 class="event__name">Jack Event</h3>
+              <h3 class="event__name">DevC Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
               <p class="event__desc">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Dignissimos pariatur sed libero? Optio quia ipsam vitae nisi
-                odit, provident cupiditate, consequuntur assumenda illo, nemo
-                esse labore fugit reiciendis reprehenderit magni.
+               The Devc Event will be happening live at Oluaka Institute of 
+                technology Owerri. Come lets make imo and tech our thing. 
+                For the culture
               </p>
             </li>
           </ul>
