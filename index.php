@@ -10,8 +10,8 @@
       content="Event booking for events in Owerri Tech"
     />
     <title>OTEM</title>
-    <link href="static/fullcalendar/core/main.css" rel="stylesheet" />
-    <link href="static/fullcalendar/daygrid/main.css" rel="stylesheet" />
+    <link href="static/core/main.css" rel="stylesheet" />
+    <link href="static/daygrid/main.css" rel="stylesheet" />
     <link rel="stylesheet" href="static/css/main.css" />
   </head>
   <body>
@@ -25,7 +25,7 @@
           <ul class="events">
             <li class="event">
               <div class="event__date">14th December, 2019</div>
-              <h3 class="event__name">GDG Owerri Event</h3>
+              <h3 class="event__name">Jack Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
               <p class="event__desc">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -36,7 +36,7 @@
             </li>
             <li class="event">
               <div class="event__date">14th December, 2019</div>
-              <h3 class="event__name">Pyladies Owerri Event</h3>
+              <h3 class="event__name">Jack Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
               <p class="event__desc">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -47,7 +47,7 @@
             </li>
             <li class="event">
               <div class="event__date">14th December, 2019</div>
-              <h3 class="event__name">DevC Owerri Event</h3>
+              <h3 class="event__name">Jack Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
               <p class="event__desc">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -57,12 +57,13 @@
               </p>
             </li>
           </ul>
+          <div class="btn schedule__btn">Schedule an Event</div>
         </div>
       </div>
     </div>
 
-    <script src="static/fullcalendar/core/main.js"></script>
-    <script src="static/fullcalendar/daygrid/main.js"></script>
+    <script src="static/core/main.js"></script>
+    <script src="static/daygrid/main.js"></script>
 
     <script>
       document.addEventListener("DOMContentLoaded", function() {
