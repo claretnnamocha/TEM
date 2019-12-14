@@ -21,7 +21,7 @@
           <ul class="events">
             <li class="event">
               <div class="event__date">14th December, 2019</div>
-              <h3 class="event__name">Jack Event</h3>
+              <h3 class="event__name">GDG Owerri Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
               <p class="event__desc">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -32,7 +32,7 @@
             </li>
             <li class="event">
               <div class="event__date">14th December, 2019</div>
-              <h3 class="event__name">Jack Event</h3>
+              <h3 class="event__name">Devc Owerri Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
               <p class="event__desc">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -43,7 +43,7 @@
             </li>
             <li class="event">
               <div class="event__date">14th December, 2019</div>
-              <h3 class="event__name">Jack Event</h3>
+              <h3 class="event__name">ALC Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
               <p class="event__desc">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
