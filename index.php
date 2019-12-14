@@ -17,19 +17,42 @@
       <div class="app">
         <div class="date__banner"></div>
         <div class="events-container">
-          <div class="events">
-            <div class="event">
-              <div class="event__date"></div>
+          <h4 class="events-title">All events for selected date</h4>
+          <ul class="events">
+            <li class="event">
+              <div class="event__date">14th December, 2019</div>
               <h3 class="event__name">Jack Event</h3>
               <h4 class="event__title">dignissimos excepturi?</h4>
-              <p class="event__description">
+              <p class="event__desc">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Dignissimos pariatur sed libero? Optio quia ipsam vitae nisi
                 odit, provident cupiditate, consequuntur assumenda illo, nemo
                 esse labore fugit reiciendis reprehenderit magni.
               </p>
-            </div>
-          </div>
+            </li>
+            <li class="event">
+              <div class="event__date">14th December, 2019</div>
+              <h3 class="event__name">Jack Event</h3>
+              <h4 class="event__title">dignissimos excepturi?</h4>
+              <p class="event__desc">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Dignissimos pariatur sed libero? Optio quia ipsam vitae nisi
+                odit, provident cupiditate, consequuntur assumenda illo, nemo
+                esse labore fugit reiciendis reprehenderit magni.
+              </p>
+            </li>
+            <li class="event">
+              <div class="event__date">14th December, 2019</div>
+              <h3 class="event__name">Jack Event</h3>
+              <h4 class="event__title">dignissimos excepturi?</h4>
+              <p class="event__desc">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Dignissimos pariatur sed libero? Optio quia ipsam vitae nisi
+                odit, provident cupiditate, consequuntur assumenda illo, nemo
+                esse labore fugit reiciendis reprehenderit magni.
+              </p>
+            </li>
+          </ul>
         </div>
       </div>
     </div>
