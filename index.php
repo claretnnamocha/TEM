@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="author" content="Team TEM" />
+    <meta
+      name="description"
+      content="Event booking for events in Owerri Tech"
+    />
+    <title>OTEM</title>
+    <link rel="stylesheet" href="static/css/main.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="app">
+        <div class="date__banner"></div>
+        <div class="events-container">
+          <div class="events">
+            <div class="event">
+              <div class="event__date"></div>
+              <h3 class="event__name">Jack Event</h3>
+              <h4 class="event__title">dignissimos excepturi?</h4>
+              <p class="event__description">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Dignissimos pariatur sed libero? Optio quia ipsam vitae nisi
+                odit, provident cupiditate, consequuntur assumenda illo, nemo
+                esse labore fugit reiciendis reprehenderit magni.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="static/js/main.js"></script>
+  </body>
+</html>
