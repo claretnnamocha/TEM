@@ -58,7 +58,7 @@
             </li>
           </ul>
           <div class="btn schedule__btn">
-            <a href="add_event.html">Schedule an Event</a>
+            <a href="add_event.php">Schedule an Event</a>
           </div>
         </div>
       </div>
